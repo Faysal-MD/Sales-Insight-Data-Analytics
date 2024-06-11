@@ -19,8 +19,6 @@ The primary goal of this project is to provide a comprehensive and interactive d
 - **Comparative Analysis**: Compare sales performance across different time periods, regions, and product categories.
 - **Revenue Forecasting**: Predict future sales trends based on historical data to aid in strategic planning.
 
-https://github.com/Faysal-MD/Sales-Insight-Data-Analytics/blob/main/Assets/desktop.png
-
 ## Getting Started
 1. **Clone the repository**: 
    ```sh
