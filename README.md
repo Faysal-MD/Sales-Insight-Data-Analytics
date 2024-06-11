@@ -25,7 +25,7 @@ The primary goal of this project is to provide a comprehensive and interactive d
    git clone https://github.com/yourusername/Sales-Insight-Data-Analytics.git
 
 2. **Open Power BI:**
-   Import the provided Power BI file (Atliq_Sales_Dashboard.pbix).
+   Import the provided Power BI file (sales_insight.pbix).
 
 3. **Explore the Dashboard:**
    Interact with the various charts and filters to gain insights into the sales data.
