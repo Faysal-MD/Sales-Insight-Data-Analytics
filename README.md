@@ -6,7 +6,6 @@ Welcome to the **Sales Insight Data Analytics** project! This repository contain
 ## Project Purpose
 The primary goal of this project is to provide a comprehensive and interactive dashboard that enables users to gain insights into the sales data of Atliq hardware. By understanding these trends, stakeholders can make data-driven decisions to improve business outcomes.
 
-```markdown
 ![Dashboard Image](https://github.com/Faysal-MD/Sales-Insight-Data-Analytics/blob/main/Assets/desktop.png)
 
 ## Features
